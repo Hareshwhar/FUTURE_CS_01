@@ -22,5 +22,5 @@ This project demonstrates the implementation of Two-Factor Authentication (2FA) 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/2fa-sample-app.git
+   git clone https://github.com/Hareshwhar/FUTURE_CS_01.git
    cd 2fa-sample-app
